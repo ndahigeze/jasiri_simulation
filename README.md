@@ -1,6 +1,3 @@
-# JUNIOR SOFTWARE DEVELOPER JOB SIMULATION ACTIVITY
-
-* jasir_simulation_test is django project for managing user contacts and their basic informations
 
 # Process and steps for hosting this application on ubuntu server
 
